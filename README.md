@@ -1,154 +1,334 @@
-<h1 align="center">Hi 👋, I'm Kalyan Dasari</h1>
-<h3 align="center">AI Developer | Python Backend Developer | Full Stack Developer </h3>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalyan-dasari&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Kalyan%20Dasari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Backend%20Developer%20•%20Full%20Stack%20Developer&descAlignY=58"/>
 </p>
 
----
+<h1 align="center">Hi 👋 I'm Kalyan Dasari</h1>
 
-## 🚀 About Me
-
-- 🎓 B.Tech in Computer Science & Engineering (AI & ML)
-- 💻 Passionate about AI, Backend Development, and Full Stack Applications
-- 🤖 Building AI-powered applications that solve real-world problems
-- 🌱 Currently exploring LLMs, AI Agents, AWS, and Cloud Technologies
-- 🚀 Interested in Startups, SaaS, and Product Development
-- 💡 Love turning ideas into working products
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-### Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
----
-
-## 🚀 Projects
-
-### 🎓 Student Alumni Platform
-A networking platform connecting students and alumni with internships, events, mentorship, and career opportunities.
-
-**Tech:** FastAPI • MongoDB • React
-
----
-
-### 🤖 AI Recommendation Engine
-Building personalized recommendations using user profiles, GitHub, LinkedIn, resumes, and AI.
-
-**Tech:** Python • LLMs • Vector Search
-
----
-
-### 📱 Smart SMS Inbox
-An AI-powered application that categorizes SMS into OTPs, Banking, Transactions, Promotions, Bills, and Important messages.
-
-**Tech:** Android • AI • NLP
-
----
-
-### 📖 Infinite Dream
-A storytelling project documenting beautiful memories through comics, stories, and visuals.
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">
+Building AI Products • Backend Systems • Full Stack Applications
+</h3>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kalyan-dasari&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan-dasari&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kalyan-dasari&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kalyan-dasari&theme=algolia&row=1&column=7"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/kalyan-dasari">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://kalyandasari.in">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kalyan-dasari">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kalyan-dasari&label=Profile+Views&color=2563EB"/>
+
+<img src="https://img.shields.io/github/followers/kalyan-dasari?label=Followers&style=flat"/>
+
+<img src="https://img.shields.io/github/stars/kalyan-dasari?affiliations=OWNER&style=flat"/>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a Software Engineer passionate about building **AI-powered products**, scalable backend systems, and modern full-stack applications.
+
+I enjoy turning ideas into real-world products using AI, automation, and clean software architecture.
+
+### Currently Working On
+
+- 🤖 AI Agents
+- 🧠 Large Language Models (LLMs)
+- ☁️ AWS Cloud
+- ⚡ FastAPI Backend
+- 📱 Flutter
+- 🚀 SaaS Products
+
+### Interests
+
+- Artificial Intelligence
+- Backend Engineering
+- Product Development
+- Startups
+- Open Source
+
+---
+
+# 🚀 Featured Projects
+
+## 🎓 Student Alumni Platform
+
+A complete networking platform connecting students and alumni.
+
+### Features
+
+- Student Profiles
+- Alumni Network
+- Events
+- Internship Portal
+- Job Portal
+- Mentorship
+- Authentication
+- REST APIs
+
+**Tech**
+
+FastAPI • MongoDB • React • JWT
+
+---
+
+## 🤖 AI Recommendation Engine
+
+AI-powered recommendation system using user profiles, resumes, GitHub and LinkedIn data.
+
+### Features
+
+- Resume Analysis
+- Skill Matching
+- AI Recommendations
+- Semantic Search
+- Vector Database
+
+**Tech**
+
+Python • FastAPI • LLM • Embeddings
+
+---
+
+## 💊 Medicine Reminder App
+
+Smart reminder application designed especially for elderly people.
+
+### Features
+
+- Medicine Scheduling
+- Voice Reminder
+- Caregiver Notifications
+- Large UI
+- Android Support
+
+**Tech**
+
+Flutter • Firebase
+
+---
+
+## 📱 Smart SMS Inbox
+
+Automatically categorizes SMS into:
+
+- OTP
+- Banking
+- Transactions
+- Promotions
+- Bills
+- Important
+
+using AI and NLP.
+
+---
+
+## 📚 OpenReaders
+
+A storytelling platform for reading original stories, books and visual narratives.
+
+Features
+
+- Stories
+- Comics
+- Reading Experience
+- Responsive UI
+
+---
+
+## 🚀 AfterClass
+
+Student community platform built for engineering students.
+
+Features
+
+- Resources
+- Notes
+- Communities
+- Events
+
+---
+
+# ⚙️ Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
+
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+
+</p>
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman"/>
+
+</p>
+
+## Design
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kalyan-dasari&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan-dasari&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kalyan-dasari&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalyan-dasari&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kalyan-dasari&theme=algolia&margin-w=15&margin-h=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kalyan-dasari/kalyan-dasari/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> You'll need to configure a GitHub Action to generate this automatically.
+
+---
+
+# 💼 What I'm Looking For
+
+- Software Engineer Roles
+- Backend Developer Roles
+- AI Engineer Roles
+- Full Stack Developer Roles
+- Open Source Collaboration
+- Startup Opportunities
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://kalyandasari.in">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/kalyan-dasari">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-## 💭 Quote
+# ❤️ Support My Work
 
-> "Code. Learn. Build. Repeat."
-
-⭐ If you like my work, consider giving a star to my repositories.
-
-## ❤️ Support My Work
-
-If you enjoy my projects or they help you, consider supporting my work!
+If my projects have helped you or inspired you, you can support my work.
 
 <p align="center">
-  <a href="https://buymeacoffee.com/YOUR_USERNAME">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="220" alt="Buy Me A Coffee"/>
-  </a>
+
+<a href="YOUR_RAZORPAY_PAYMENT_LINK">
+<img src="https://img.shields.io/badge/Support%20via-Razorpay-0C73FE?style=for-the-badge&logo=razorpay&logoColor=white"/>
+</a>
+
 </p>
 
-⭐ Don't forget to star my repositories if you find them useful!
+---
+
+# 💬 Favorite Quote
+
+> **"Great products aren't built by writing more code. They're built by solving real problems."**
+
+---
+
+<p align="center">
+
+### ⭐ If you like my work, consider starring my repositories!
+
+</p>
