@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalyan Dasari</h1>
-<h3 align="center">AI Developer | Python Backend Developer | Full Stack Developer | CSE (AI & ML) Graduate</h3>
+<h3 align="center">AI Developer | Python Backend Developer | Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalyan-dasari&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
