@@ -3,12 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Kalyan%20Dasari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Backend%20Developer%20•%20Full%20Stack%20Developer&descAlignY=58"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Kalyan Dasari</h1>
-
-<h3 align="center">
-Building AI Products • Backend Systems • Full Stack Applications
-</h3>
-
+<h1 align="center">Hi 👋 I'm Kalyan </h1>
 <p align="center">
 
 <a href="https://kalyandasari.in">
