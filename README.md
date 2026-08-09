@@ -69,31 +69,6 @@ Building AI-powered applications, scalable backend systems, and modern web exper
 </p>
 
 ---
-
-## 📫 Let's Connect
-
-<p align="center">
-
-<a href="https://kalyandasari.in">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_RAZORPAY_LINK">
-<img src="https://img.shields.io/badge/Support-Razorpay-0C73FE?style=for-the-badge&logo=razorpay&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 <p align="center">
 <i>"Building products that solve real problems with AI."</i>
 </p>
