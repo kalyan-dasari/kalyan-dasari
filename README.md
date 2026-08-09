@@ -8,7 +8,7 @@ Building AI-powered applications, scalable backend systems, and modern web exper
 
 <p align="center">
 <a href="https://kalyandasari.in">Portfolio</a> •
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/kalyan-dasari/">LinkedIn</a> •
 </p>
 
 <p align="center">
