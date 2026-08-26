@@ -78,7 +78,6 @@ If my projects have helped you or inspired you, you can support my work.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Support%20via-Razorpay-0C73FE?style=for-the-badge&logo=razorpay&logoColor=white"/>
 </a>
 
 </p>
