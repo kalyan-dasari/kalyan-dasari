@@ -53,17 +53,9 @@ Building AI-powered applications, scalable backend systems, and modern web exper
 ---
 
 ## 📈 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kalyan-dasari&show_icons=true&show=reviews,prs_merged,issues,prs,commits&include_all_commits=true&theme=github_dark&hide_border=true" />
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyan-dasari&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 <p align="center">
   <img width="60%" src="https://streak-stats.demolab.com?user=kalyan-dasari&theme=github-dark-blue&hide_border=true" />
 </p>
--------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <i>"Building products that solve real problems with AI."</i>
 </p>
