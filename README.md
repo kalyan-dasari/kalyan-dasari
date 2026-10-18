@@ -80,6 +80,6 @@ If my projects have helped you or inspired you, you can support my work.
 <p align="center">
 
 ### ⭐ If you like my work, consider starring my repositories! 
-Learn more..  Grow more.. 
+Learn more..  Grow more....
 
 </p>
