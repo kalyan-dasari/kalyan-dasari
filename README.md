@@ -22,7 +22,7 @@ Building AI-powered applications, scalable backend systems, and modern web exper
 - 💼 Software Engineer passionate about AI & Backend Development
 - 🤖 Building AI Agents and LLM-powered applications
 - 🚀 Interested in SaaS, Startups, and Product Engineering
-- 🌱 Currently learning AWS, Cloud, and Flutter
+- 🌱 Currently learning GenAI, Cloud, and AWS
 - 💡 I enjoy turning ideas into real-world products
 
 ---
@@ -47,6 +47,7 @@ Building AI-powered applications, scalable backend systems, and modern web exper
 | 📱 **Smart SMS Inbox** | AI-based SMS categorization using NLP. |
 | 📚 **OpenReaders** | Platform for stories, books and visual content. |
 | 🚀 **AfterClass** | Student community platform for engineering students. |
+| 🚀 **StudEarn** | Student Freelancing platform for all the students. |
 
 ➡️ **More projects:** https://github.com/kalyan-dasari?tab=repositories
 
